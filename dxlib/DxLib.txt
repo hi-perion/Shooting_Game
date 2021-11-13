@@ -1,0 +1,176 @@
+//===============================================================================================
+//
+//	�c�w���C�u�����@�����
+//
+//	Ver 3.22c		By �R�c�@�I
+//
+//===============================================================================================
+
+// �c�w���C�u�����i�c�w���C�u�����j�Ƃ́H--------------------------------------
+
+	�@�c�w���C�u�����Ƃ͂v�������������`�o�h�i�@�\���ߌQ�j�̈��ł���
+	�c�����������w�̋@�\���ȒP���V���v���Ɏg�p�ł���悤�ɍ��ꂽ���C�u�����ł��B
+	(�Ȃ��w�c�w���C�u�����x���Ƃ����Ɓw�c�x�����������w�w�x�̃��C�u����������ł�(����))
+
+	�@�c�����������w�Ƃ͂v���������������ŃQ�[�����̃}�V���ɑ΂��镉�ׂ̍���
+	�\�t�g�����p�\�ȃ��x���ɂ��邽�߂ɍ��o���ꂽ�f���炵���`�o�h�ł����A
+	�@�����񂻂̎d�l�̕��G���䂦�ɏ��S�҂ɂ͂Ƃ����ɂ����A���ʂƂ��ď��S��
+	�ɂ͈����Ȃ��@�\�Ƃ��Ĉꕔ�̒����㋉�҂݂̂��g���`�o�h�ƂȂ��Ă��܂��܂����B
+
+	�@�c�w���C�u�����͂��̑f���炵���`�o�h�ł���c�����������w�̕��G�Ȏd�l��
+	��݁A���ɗ��p�҂̕��ɂ킩��₷���`�łc�����������w�̉��b��񋟂���
+	���߂ɍ��ꂽ���C�u�����ł��B���̃��C�u�������g�p���邱�Ƃɂ���Ĕ���
+	�ȒP�ɂc�����������w���g�p�����\�t�g����邱�Ƃ��ł��܂��B
+
+	�@����ɂ��̃��C�u�������g�p���邱�Ƃɂ��v�������������\�t�g�v���O������
+	�����ł���v�������������\�t�g�v���O�����̕��G�����������Ă���C�x���g�쓮�^
+	�v���O���������Ƃ����T�O��K�v�Ƃ��Ȃ��v���O������g�ނ��Ƃ��ł��܂��B
+
+
+
+// �c�w���C�u�������g���ɂ́H--------------------------------------------------
+
+	�@�c�w���C�u�����̎n�ߕ��ɂ��Ă͂c�w���C�u�����̃t�H���_�̒��ɂ���whelp�x
+	�t�H���_���́wDxUse.html�x���Q�Ƃ��ĉ������B
+
+			
+
+// �c�w���C�u�����֐����t�@�����X----------------------------------------------
+
+	�@�c�w���C�u�����̊֐����t�@�����X�ɂ��Ă͂c�w���C�u�����̃t�H���_��
+	���ɂ���whelp�x�t�H���_���́wDxFunc.html�x���Q�Ƃ��ĉ������B
+
+
+
+// ���쌠�Ȃ�------------------------------------------------------------------
+
+	<<��ʓI�Ȏ���>>
+	�@�E�c�w���C�u�����̒��쌠�͎R�c �I���ێ����܂��B
+
+	�@�E�����\�t�g�A�L���\�t�g��킸�A�c�w���C�u�������g�p���č쐬���ꂽ�\�t�g�E�G�A�ɑ΂���
+	�@�@���C�Z���X������(���p���p�E�@�l���p��킸)��ؔ������܂���B
+
+	�@�E�c�w���C�u������p�������Ƃɂ���Đ������@���Ȃ鑹�Q�ɑ΂��Ă����쌠�ۗL�҂͂���
+	�@�@�ۏ�`������ؕ���Ȃ����̂Ƃ��܂��B
+
+	�@�E���쌠�ۗL�҂͂c�w���C�u�����ɕs�����L���Ă��A������������`���𕉂��܂���B
+
+	�@�E�c�w���C�u�������g�p���č쐬���ꂽ�\�t�g�E�G�A�ɂc�w���C�u�������g�p�����|���L�ڂ���
+	�@�@�K�v�͂���܂���B(�L�ڂ����Ί������ł���)
+
+
+	�@�E���L�̋@�\���g�p�����ꍇ�́A�z�z����\�t�g�E�G�A�̃h�L�������g���Ɋe�@�\�ɉ�����
+	�@�@���쌠�\�����܂߂Ă��������B
+
+	�@�@JPEG �摜��ǂ݂��ދ@�\���g�p�����ꍇ
+
+	�@�@�@libjpeg�@Copyright (C) 1991-2013, Thomas G. Lane, Guido Vollbeding.
+
+
+	�@�@PNG �摜��ǂ݂��ދ@�\���g�p�����ꍇ
+
+	�@�@�@libpng�@Copyright (C) 2004, 2006-2012 Glenn Randers-Pehrson.
+	�@�@�@zlib�@Copyright (C) 1995-2012 Jean-loup Gailly and Mark Adler.
+
+
+	�@�@TIFF �摜��ǂݍ��ދ@�\���g�p�����ꍇ
+
+	�@�@�@libtiff�@Copyright (c) 1988-1997 Sam Leffler
+	�@�@�@libtiff�@Copyright (c) 1991-1997 Silicon Graphics, Inc.
+
+�@�@�@
+	�@�@Ogg Vorbis �����f�[�^��ǂݍ��ދ@�\�A���� Ogg Theora ����f�[�^��ǂݍ��ދ@�\���g�p�����ꍇ
+
+	�@�@�@Copyright (C) 2002-2009 Xiph.org Foundation
+
+	�@�@�@Redistribution and use in source and binary forms, with or without
+	�@�@�@modification, are permitted provided that the following conditions
+	�@�@�@are met:
+
+	�@�@�@- Redistributions of source code must retain the above copyright
+	�@�@�@notice, this list of conditions and the following disclaimer.
+
+	�@�@�@- Redistributions in binary form must reproduce the above copyright
+	�@�@�@notice, this list of conditions and the following disclaimer in the
+	�@�@�@documentation and/or other materials provided with the distribution.
+
+	�@�@�@- Neither the name of the Xiph.org Foundation nor the names of its
+	�@�@�@contributors may be used to endorse or promote products derived from
+	�@�@�@this software without specific prior written permission.
+
+	�@�@�@THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+	�@�@�@``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+	�@�@�@LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+	�@�@�@A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE FOUNDATION
+	�@�@�@OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+	�@�@�@SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+	�@�@�@LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+	�@�@�@DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+	�@�@�@THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+	�@�@�@(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+	�@�@�@OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+	�@�@�֐� GetRand ���g�p�����ꍇ
+
+	�@�@�@Mersenne Twister
+	�@�@�@Copyright (C) 1997 - 2002, Makoto Matsumoto and Takuji Nishimura,
+	�@�@�@GamePlay rights reserved.
+
+	�@�@�@Redistribution and use in source and binary forms, with or without
+	�@�@�@modification, are permitted provided that the following conditions
+	�@�@�@are met:
+
+	�@�@�@1. Redistributions of source code must retain the above copyright
+	�@�@�@notice, this list of conditions and the following disclaimer.
+
+	�@�@�@2. Redistributions in binary form must reproduce the above copyright
+	�@�@�@notice, this list of conditions and the following disclaimer in the
+	�@�@�@documentation and/or other materials provided with the distribution.
+
+	�@�@�@3. The name of the author may not be used to endorse or promote products
+	�@�@�@derived from this software without specific prior written permission.
+
+	�@�@�@THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS OR
+	�@�@�@IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+	�@�@�@OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
+	�@�@�@IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT,
+	�@�@�@INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT
+	�@�@�@NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+	�@�@�@DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+	�@�@�@THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+	�@�@�@(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
+	�@�@�@THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+	�@�@PMD+VMD�t�@�C���̓ǂݍ��݂ŕ������Z���g�p�����ꍇ
+
+	�@�@�@Bullet�@Copyright (c) 2003-2006 Erwin Coumans.
+
+
+	�@�@Live2D �̋@�\���g�p�����ꍇ
+
+	�@�@�@���쌠�\�L�̑���ɂ������ Live2D �̃��C�Z���X�ɏ]���Ă��������B
+
+	�@�@�@�@�@Live2D Open Software �g�p�����_��
+	�@�@�@�@�@https://www.live2d.com/eula/live2d-open-software-license-agreement_jp.html
+
+	�@�@�@�@�@Live2D Proprietary Software �g�p�����_��
+	�@�@�@�@�@https://www.live2d.com/eula/live2d-proprietary-software-license-agreement_jp.html
+
+
+	<<�c�w���C�u�����̃��C�u�����t�@�C����\�[�X�R�[�h�̍Ĕz�z�ɂ���>>
+		�@�c�w���C�u�����̃��C�u�����t�@�C��( �g���q�� lib �� a �̃t�@�C�� )��A�v���O�����\�[�X�t�@�C��
+		�@( DxGraphics.cpp �� DxLib.h �Ȃǂ̃t�@�C�� )��z�z����ꍇ�́A�ꕔ�A�S����킸�ȉ��̒��쌠�\����
+		�@�z�z���ƂƂ��ɒ񋟂���镶���A�܂��͑��̎����Ɋ܂߂ĉ������B
+
+	�@�@�@DX Library Copyright (C) 2001-2019 Takumi Yamada.
+
+
+// �A��------------------------------------------------------------------------
+
+	�@�Ȃɂ����C�t���̓_���������܂����玟�̃��[���A�h���X�܂ŘA�������肢���܂��B
+
+		BQE00322@nifty.ne.jp	 �R�c�@�I
+		https://dxlib.xsrv.jp/index.html
+
