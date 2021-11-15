@@ -11,10 +11,6 @@ DXライブラリ
 ## デモプレイ
 <img src="./cmake-build-debug/demo_play.gif" width="450px">  
 
-## ダウンロード
-実際に遊んでみたい方は、下記よりダウンロードしてプレイしてください。  
-https://mega.nz/file/RZ0m3ASJ#BLGhT-_EP47EqWitRjGJ7gDd3zBelOW5oBQvgqtGW6Q  
-ダウンロードしたzipファイルを解凍後、同梱のShooting_Game.exeを起動してください。
 ## 制作において工夫した点
 ポリモーフィズムの仕組みを利用したメンバ関数の実装
 ## 今後の課題
